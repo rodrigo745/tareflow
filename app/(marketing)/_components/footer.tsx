@@ -8,8 +8,8 @@ export function Footer(){
                 <Logo/>
             <div className="p-2 flex justify-between md:justify-end w-full space-x-6">
                 
-                    <Link href="/iniciar-sesion">Política de privacidad</Link>
-                    <Link href="/crear-cuenta">Terminos del servicio</Link>
+                    <Link className="md:text-lg text-sm" href="/iniciar-sesion">Política de privacidad</Link>
+                    <Link className="md:text-lg text-sm" href="/crear-cuenta">Terminos del servicio</Link>
             </div>
             </div>
         </div>
