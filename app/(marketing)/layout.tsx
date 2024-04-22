@@ -1,5 +1,6 @@
 
-import { NavBar } from "./_components/navbar"
+import { NavBar } from "./_components/navbar";
+import { Footer } from "./_components/footer";
 
 export default function MarketingLayaot({children}: {children: React.ReactNode}){
     return(
@@ -8,7 +9,7 @@ export default function MarketingLayaot({children}: {children: React.ReactNode})
                 <NavBar/>
                 {/* <Logo/> */}
                 {children}
-
+                <Footer/>
             </main>
         </div>
     )
