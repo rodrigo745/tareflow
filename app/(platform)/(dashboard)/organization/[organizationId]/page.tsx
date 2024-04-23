@@ -3,7 +3,7 @@
 export default function OrganizationIdPage(){
 
     return(
-        <div className="mt-40">
+        <div className="">
            Pagina de la organizacion
         </div>
     )
