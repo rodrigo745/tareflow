@@ -17,7 +17,7 @@ export default function Marketing(){
             Colabora, gestiona proyectos y alcanza nuevos niveles de productividad. Ya sea en una oficina corporativa o desde casa, la forma en que trabaja tu equipo es única. ¡Logra todo esto con Taskify!
             </div>
             <Button className="mt-4" size="lg" asChild>
-                <Link href="/iniciar-sesion">Obtener una cuenta gratis</Link>
+                <Link href="/sign-up">Obtener una cuenta gratis</Link>
             </Button>
         </div>
     )

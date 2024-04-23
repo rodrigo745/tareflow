@@ -9,10 +9,10 @@ export function NavBar(){
                 <Logo/>
             <div className="flex justify-between md:justify-end w-full space-x-6">
                 <Button className="shadow-sm" size="sm" variant="outline" asChild>
-                    <Link href="/iniciar-sesion">Iniciar sesión</Link>
+                    <Link href="/sign-in">Iniciar sesión</Link>
                 </Button>
                 <Button>
-                    <Link href="/crear-cuenta">Obtener gratis</Link>
+                    <Link href="/sign-up">Obtener gratis</Link>
                 </Button>
             </div>
             </div>
