@@ -64,7 +64,7 @@ export default function SideBar({
     return(
         <>
            <div className="font-medium text-xs flex items-center mb-1">
-                <span className="pl-4">Espacio de trabajo</span>
+                <span className="pl-4">Panel de trabaojo!</span>
                 <Button asChild type="button" size="icon" variant="ghost" className="ml-auto">
                     <Link href="/select-org">
                         <Plus className="w-4 h-4"/>

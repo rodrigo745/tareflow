@@ -26,7 +26,7 @@ export default function SettingsPage(){
                             },
                             headerTitle:{
                                 backgroundColor: "",
-                                text: "asdasd",
+                                text: "No entiendo que pasa",
                             }
             }}}        
             />
